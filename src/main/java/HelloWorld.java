@@ -6,6 +6,6 @@ public class HelloWorld {
     }
 
     public String getHelloWorld(){
-        return "hello world1";
+        return "hello world";
     }
 }
